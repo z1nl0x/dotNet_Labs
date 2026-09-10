@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AppTest.API/AppTest.API.csproj" />
+  <Project Path="AppTest.Application/AppTest.Application.csproj" />
+  <Project Path="AppTest.Domain/AppTest.Domain.csproj" />
+  <Project Path="AppTest.Infraestructure/AppTest.Infraestructure.csproj" />
+</Solution>

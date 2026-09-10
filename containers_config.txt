@@ -1,0 +1,26 @@
+docker run --name AppTest_Pgsql \ -e POSTGRES_PASSWORD=123456789 \ -p 5437:5432 \ -v pgdata:/var/lib/postgresql \ -d postgres
+
+
+docker run --name AppTest_Pgsql \
+  -e POSTGRES_PASSWORD=123456789 \
+  -p 5437:5432 \
+  -v pgdata:/var/lib/postgresql/data \
+  -d postgres:16
+  
+  
+  Criar uma nova migration:                                                                                                                                                                                                         
+  dotnet ef migrations add NomeDaMigration --project AppTest.Infraestructure --startup-project AppTest.API                                                                                                                          
+                                                                                                                                                                                                                                    
+  Aplicar as migrations no banco:                                                                                                                                                                                                   
+  dotnet ef database update --project AppTest.Infraestructure --startup-project AppTest.API                                                                                                                                         
+                                                                                                                                                                                                                                    
+  Comandos úteis complementares:                                                                                                                                                                                                    
+  # Remover a última migration (se ainda não aplicada)                                                                                                                                                                              
+  dotnet ef migrations remove --project AppTest.Infraestructure --startup-project AppTest.API                                                                                                                                       
+                                                                                                                                                                                                                                    
+  # Listar todas as migrations                                                                                                                                                                                                      
+  dotnet ef migrations list --project AppTest.Infraestructure --startup-project AppTest.API    
+  
+  
+  # Dropar o banco inteiro                                                                                                                                                                                                          
+  dotnet ef database drop --force --project AppTest.Infraestructure --startup-project AppTest.API    

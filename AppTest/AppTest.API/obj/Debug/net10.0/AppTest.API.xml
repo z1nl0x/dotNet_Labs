@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppTest.API</name>
+    </assembly>
+    <members>
+        <member name="F:AppTest.API.Controllers.AuthController.RefreshCookieName">
+            <summary>Nome do cookie HTTP-only que transporta o refresh token.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.AuthController.Register(AppTest.Application.Features.Auth.Register.RegisterCommand,System.Threading.CancellationToken)">
+            <summary>Registra um novo usuário (role padrão: User) e retorna um access token JWT.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.AuthController.Login(AppTest.Application.Features.Auth.Login.LoginCommand,System.Threading.CancellationToken)">
+            <summary>Autentica um usuário e retorna um access token JWT (refresh token vai em cookie HTTP-only).</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.AuthController.Refresh(System.Threading.CancellationToken)">
+            <summary>
+            Renova o access token usando o refresh token do cookie HTTP-only.
+            O refresh token é rotacionado: o antigo é revogado e um novo é emitido.
+            </summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.AuthController.Logout(System.Threading.CancellationToken)">
+            <summary>Revoga o refresh token atual e apaga o cookie (logout).</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.AuthController.Me">
+            <summary>Endpoint protegido: acessível a qualquer usuário autenticado.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.AuthController.AdminOnly">
+            <summary>Endpoint protegido: apenas usuários com a role Admin.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.AuthController.SetRefreshCookie(AppTest.Application.DTOs.Auth.AuthResult)">
+            <summary>Grava o refresh token em um cookie HTTP-only, seguro e SameSite=Strict.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.CategoriasController.GetAll(AppTest.Application.Features.Categorias.GetList.GetCategoriasQuery,System.Threading.CancellationToken)">
+            <summary>Lista as categorias com filtro opcional por nome e paginação.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.CategoriasController.GetById(System.Guid,System.Threading.CancellationToken)">
+            <summary>Consulta uma categoria pelo id.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.CategoriasController.Create(AppTest.Application.Features.Categorias.Create.CreateCategoriaCommand,System.Threading.CancellationToken)">
+            <summary>Cria uma nova categoria.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.CategoriasController.Update(System.Guid,AppTest.Application.Features.Categorias.Update.UpdateCategoriaCommand,System.Threading.CancellationToken)">
+            <summary>Atualiza uma categoria existente.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.CategoriasController.Delete(System.Guid,System.Threading.CancellationToken)">
+            <summary>Remove uma categoria (falha se houver produtos vinculados).</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.ProdutosController.GetAll(AppTest.Application.Features.Produtos.GetList.GetProdutosQuery,System.Threading.CancellationToken)">
+            <summary>Lista os produtos com filtro opcional por nome e paginação.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.ProdutosController.GetById(System.Guid,System.Threading.CancellationToken)">
+            <summary>Consulta um produto pelo id.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.ProdutosController.Create(AppTest.Application.Features.Produtos.Create.CreateProdutoCommand,System.Threading.CancellationToken)">
+            <summary>Cria um novo produto vinculado a uma categoria.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.ProdutosController.Update(System.Guid,AppTest.Application.Features.Produtos.Update.UpdateProdutoCommand,System.Threading.CancellationToken)">
+            <summary>Atualiza um produto existente.</summary>
+        </member>
+        <member name="M:AppTest.API.Controllers.ProdutosController.Delete(System.Guid,System.Threading.CancellationToken)">
+            <summary>Remove um produto.</summary>
+        </member>
+        <member name="T:AppTest.API.Middleware.ExceptionHandlingMiddleware">
+            <summary>
+            Middleware que captura exceções da aplicação e devolve uma resposta
+            ProblemDetails com o HTTP status apropriado.
+            </summary>
+        </member>
+        <member name="M:AppTest.API.Middleware.ExceptionHandlingMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate,Microsoft.Extensions.Logging.ILogger{AppTest.API.Middleware.ExceptionHandlingMiddleware})">
+            <summary>
+            Middleware que captura exceções da aplicação e devolve uma resposta
+            ProblemDetails com o HTTP status apropriado.
+            </summary>
+        </member>
+        <member name="T:Program">
+            <summary>
+            Auto-generated public partial Program class for top-level statement apps.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "ye3ab0OgII8=",
+  "success": true,
+  "projectFilePath": "/home/z1nl0x/Documentos/Pessoal/dotNet_Labs/AppTest/AppTest.Application/AppTest.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/z1nl0x/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
+    "/home/z1nl0x/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
+    "/home/z1nl0x/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.1.1/fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "/home/z1nl0x/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/home/z1nl0x/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/z1nl0x/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/z1nl0x/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/home/z1nl0x/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 14.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "/home/z1nl0x/Documentos/Pessoal/dotNet_Labs/AppTest/AppTest.Application/AppTest.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/z1nl0x/Documentos/Pessoal/dotNet_Labs/AppTest/AppTest.Application/AppTest.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
