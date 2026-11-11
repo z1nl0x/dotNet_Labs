@@ -1,0 +1,2804 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 9
+/Kids [ 3 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2196
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 694.8661 cm
+Q
+q
+1 0 0 1 62.69291 672.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 -4 Tm
+/F2 21 Tf
+22 TL
+24.89239 0 Td
+(AppExampleKafka \227 API de Autentica\347\343o) Tj
+T*
+-24.89239 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.8661 cm
+Q
+q
+1 0 0 1 62.69291 639.8661 cm
+q
+0.278431 0.333333 0.411765 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 12 Tf
+15 TL
+50.22288 0 Td
+(Clean Architecture \267 JWT Bearer \267 Refresh Token \267 Cookie HTTP\055only) Tj
+T*
+-50.22288 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.8661 cm
+q
+0.278431 0.333333 0.411765 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 12 Tf
+15 TL
+15.68688 0 Td
+(Unit of Work \267 Repository \267 AutoMapper \267 FluentValidation \267 EF Core \053 PostgreSQL) Tj
+T*
+-15.68688 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 572.8661 cm
+Q
+q
+1 0 0 1 77.95276 452.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+n
+0 120 141.7323 -120 re
+f*
+0.945098 0.960784 0.976471 rg
+n
+141.7323 120 297.6378 -120 re
+f*
+1 1 1 rg
+BT
+/F2 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 104.5 Tm
+(Plataforma) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 149.7323 104.5 Tm
+(\056NET 10 \267 ASP\056NET Core \050Controllers\051) Tj
+T*
+ET
+1 1 1 rg
+BT
+/F2 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 80.5 Tm
+(Banco de dados) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 149.7323 80.5 Tm
+(PostgreSQL \050Npgsql \053 EF Core 10\051) Tj
+T*
+ET
+1 1 1 rg
+BT
+/F2 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 56.5 Tm
+(Autentica\347\343o) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 149.7323 56.5 Tm
+(Access token JWT \050curto\051 \053 Refresh token rotacion\341vel) Tj
+T*
+ET
+1 1 1 rg
+BT
+/F2 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 32.5 Tm
+(Transporte do refresh) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 149.7323 32.5 Tm
+(Cookie HTTP\055only\054 Secure\054 SameSite\075Strict) Tj
+T*
+ET
+1 1 1 rg
+BT
+/F2 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 8 8.5 Tm
+(Documento gerado em) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 9.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 149.7323 8.5 Tm
+(10\05709\0572026) Tj
+T*
+ET
+q
+1 J
+1 j
+1 1 1 RG
+0.5 w
+n
+0 120 m
+439.3701 120 l
+S
+n
+0 0 m
+439.3701 0 l
+S
+n
+0 0 m
+0 120 l
+S
+n
+439.3701 0 m
+439.3701 120 l
+S
+n
+0 96 m
+439.3701 96 l
+S
+n
+0 72 m
+439.3701 72 l
+S
+n
+0 48 m
+439.3701 48 l
+S
+n
+0 24 m
+439.3701 24 l
+S
+n
+141.7323 0 m
+141.7323 120 l
+S
+Q
+Q
+Q
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+/F4 9 0 R
+/F5 10 0 R
+/F6 11 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F6
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 4031
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(1\056 Vis\343o Geral) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.8661 cm
+q
+BT
+1 0 0 1 0 35 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+(Esta API implementa um fluxo de autentica\347\343o completo e seguro com apenas duas roles \227 ) Tj
+/F2 10 Tf
+(Admin) Tj
+/F1 10 Tf
+( e) Tj
+T*
+/F2 10 Tf
+(User) Tj
+/F1 10 Tf
+( \227 seguindo os princ\355pios da ) Tj
+/F2 10 Tf
+(Clean Architecture) Tj
+/F1 10 Tf
+(\056 O modelo de tokens combina dois elementos) Tj
+T*
+(complementares\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.8661 cm
+q
+BT
+1 0 0 1 16 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+/F2 10 Tf
+(Access token \050JWT\051) Tj
+/F1 10 Tf
+(\072 curta dura\347\343o \05060 min\051\056 Enviado no header ) Tj
+/F3 10 Tf
+(Authorization\072 Bearer) Tj
+T*
+(\074) Tj
+(token) Tj
+(\076) Tj
+/F1 10 Tf
+( e validado sem consulta ao banco \050stateless\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.8661 cm
+q
+BT
+1 0 0 1 16 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+/F2 10 Tf
+(Refresh token) Tj
+/F1 10 Tf
+(\072 longa dura\347\343o \0507 dias\051\054 opaco e aleat\363rio \050256 bits\051\056 Trafega exclusivamente em um) Tj
+T*
+/F2 10 Tf
+(cookie HTTP\055only) Tj
+/F1 10 Tf
+(\054 \351 persistido apenas como ) Tj
+/F2 10 Tf
+(hash SHA\055256) Tj
+/F1 10 Tf
+( e \351 ) Tj
+/F2 10 Tf
+(rotacionado) Tj
+/F1 10 Tf
+( a cada uso\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 584.8661 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+-0.08472 Tw
+(Essa separa\347\343o \351 a pr\341tica recomendada\072 o access token\054 por ser curto\054 limita a janela de exposi\347\343o caso) Tj
+T*
+0 Tw
+(vaze\073 o refresh token\054 por ficar em cookie HTTP\055only\054 \351 inacess\355vel a JavaScript\054 mitigando o roubo de) Tj
+T*
+(credenciais via XSS\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 554.8661 cm
+q
+0.145098 0.388235 0.921569 rg
+BT
+1 0 0 1 0 4.5 Tm
+/F2 13.5 Tf
+18 TL
+(1\0561\056 Por que cookie HTTP\055only para o refresh token\077) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.8661 cm
+q
+BT
+1 0 0 1 16 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+/F2 10 Tf
+(HttpOnly) Tj
+/F1 10 Tf
+(\072 o cookie n\343o \351 acess\355vel via ) Tj
+/F3 10 Tf
+(document\056cookie) Tj
+/F1 10 Tf
+(\056 Mesmo que um script malicioso seja) Tj
+T*
+(injetado \050XSS\051\054 ele n\343o consegue ler o refresh token\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.8661 cm
+q
+BT
+1 0 0 1 16 5 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+/F2 10 Tf
+(Secure) Tj
+/F1 10 Tf
+(\072 o cookie s\363 \351 enviado sob HTTPS\054 impedindo intercepta\347\343o em texto claro\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.8661 cm
+q
+BT
+1 0 0 1 16 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+/F2 10 Tf
+(SameSite\075Strict) Tj
+/F1 10 Tf
+(\072 o navegador n\343o envia o cookie em requisi\347\365es cross\055site\054 mitigando ataques) Tj
+T*
+(CSRF\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.8661 cm
+q
+BT
+1 0 0 1 16 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+(O ) Tj
+/F2 10 Tf
+(access token) Tj
+/F1 10 Tf
+(\054 por outro lado\054 fica com o cliente \050mem\363ria\051 e \351 enviado manualmente no header) Tj
+T*
+(\227 nunca em cookie \227 evitando o envio autom\341tico que abriria brecha de CSRF\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 395.8661 cm
+q
+0.145098 0.388235 0.921569 rg
+BT
+1 0 0 1 0 4.5 Tm
+/F2 13.5 Tf
+18 TL
+(1\0562\056 Rota\347\343o de refresh token) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 329.8661 cm
+q
+BT
+1 0 0 1 0 50 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+(A cada chamada a ) Tj
+/F3 10 Tf
+(\057refresh) Tj
+/F1 10 Tf
+(\054 o token usado \351 ) Tj
+/F2 10 Tf
+(revogado) Tj
+/F1 10 Tf
+( e um ) Tj
+/F2 10 Tf
+(novo) Tj
+/F1 10 Tf
+( \351 emitido \050com registro de qual) Tj
+T*
+(token o substituiu\051\056 Isso significa que um refresh token s\363 pode ser usado uma vez\056 Se um token j\341 usado) Tj
+T*
+(\050revogado\051 for apresentado novamente\054 a requisi\347\343o \351 rejeitada com ) Tj
+/F2 10 Tf
+(401) Tj
+/F1 10 Tf
+( \227 sinal cl\341ssico de reutiliza\347\343o) Tj
+T*
+(indevida\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 4003
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(2\056 Arquitetura em Camadas) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.8661 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 20 Tm
+/F1 10 Tf
+15 TL
+(A depend\352ncia sempre aponta para dentro\072 camadas externas conhecem as internas\054 nunca o contr\341rio\056) Tj
+T*
+(O Domain n\343o referencia nenhuma outra camada\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 622.3661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 86.5 Tm
+/F3 8 Tf
+10.5 TL
+/F4 8 Tf
+10.5 TL
+(nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn) Tj
+/F3 8 Tf
+10.5 TL
+T*
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+(  AppExampleKafka\056API            \050Controllers\054 Middleware\054 Cookies\051) Tj
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+T*
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+(    ) Tj
+/F5 8 Tf
+10.5 TL
+(\257) Tj
+/F3 8 Tf
+10.5 TL
+( depende de                                           ) Tj
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+T*
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+(  AppExampleKafka\056Application    \050Casos de uso\054 DTOs\054 Validators\051  ) Tj
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+T*
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+(    ) Tj
+/F5 8 Tf
+10.5 TL
+(\257) Tj
+/F3 8 Tf
+10.5 TL
+( depende de                                           ) Tj
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+T*
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+(  AppExampleKafka\056Domain         \050Entidades\054 Enums\054 Contratos\051     ) Tj
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+T*
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+(    ) Tj
+/F5 8 Tf
+10.5 TL
+<ad> Tj
+/F3 8 Tf
+10.5 TL
+( implementado por                                     ) Tj
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+T*
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+(  AppExampleKafka\056Infraestructure \050EF Core\054 Repos\054 JWT\054 Hashing\051   ) Tj
+/F4 8 Tf
+10.5 TL
+(n) Tj
+/F3 8 Tf
+10.5 TL
+T*
+/F4 8 Tf
+10.5 TL
+(nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn) Tj
+/F3 8 Tf
+10.5 TL
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 569.3661 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(A Infraestrutura implementa as interfaces definidas no Domain \050Repositories\054 Unit of Work\051 e na) Tj
+T*
+(Application \050ITokenService\054 IPasswordHasher\051\054 sendo conectada por inje\347\343o de depend\352ncia na) Tj
+T*
+(inicializa\347\343o \227 o n\372cleo permanece desacoplado de framework e banco\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.3661 cm
+q
+0.145098 0.388235 0.921569 rg
+BT
+1 0 0 1 0 4.5 Tm
+/F2 13.5 Tf
+18 TL
+(2\0561\056 Estrutura de pastas \050arquivos relevantes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 281.3661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 244 Tm
+/F3 8 Tf
+10.5 TL
+(AppExampleKafka\056Domain) Tj
+T*
+(  Entities\057         User\056cs\054 RefreshToken\056cs) Tj
+T*
+(  Enums\057            UserRole\056cs) Tj
+T*
+(  Repositories\057     IUserRepository\054 IRefreshTokenRepository\054 IUnitOfWork) Tj
+T*
+T*
+(AppExampleKafka\056Application) Tj
+T*
+(  DTOs\057Auth\057        RegisterRequest\054 LoginRequest\054 UserDto\054) Tj
+T*
+(                    AuthResponse\054 AuthResult) Tj
+T*
+(  Common\057Interfaces IAuthService\054 ITokenService\054 IPasswordHasher) Tj
+T*
+(  Common\057Exceptions AppException \050400\057401\057409\051) Tj
+T*
+(  Validators\057       RegisterRequestValidator\054 LoginRequestValidator) Tj
+T*
+(  Mappings\057         UserProfile \050AutoMapper\051) Tj
+T*
+(  Services\057         AuthService) Tj
+T*
+T*
+(AppExampleKafka\056Infraestructure) Tj
+T*
+(  Context\057          AppDbContext\054 Configurations\057\054 Migrations\057) Tj
+T*
+(  Repositories\057     UserRepository\054 RefreshTokenRepository) Tj
+T*
+(  UnitOfWork\057       UnitOfWork) Tj
+T*
+(  Security\057         PasswordHasher\054 TokenService\054 JwtSettings) Tj
+T*
+T*
+(AppExampleKafka\056API) Tj
+T*
+(  Controllers\057      AuthController) Tj
+T*
+(  Middleware\057       ExceptionHandlingMiddleware) Tj
+T*
+(  Program\056cs\054 appsettings\056json) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 2960
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(3\056 Camada de Dom\355nio \050Domain\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.8661 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 20 Tm
+/F1 10 Tf
+15 TL
+(Entidades ricas com setters privados\072 o estado s\363 muda por construtor ou por m\351todos de neg\363cio) Tj
+T*
+(expl\355citos\056 N\343o h\341 depend\352ncia de framework\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 700.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(3\0561\056 Entidade RefreshToken) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.8661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 181 Tm
+/F3 8 Tf
+10.5 TL
+(public class RefreshToken) Tj
+T*
+(\173) Tj
+T*
+(    public Guid Id \173 get\073 private set\073 \175 \075 Guid\056NewGuid\050\051\073) Tj
+T*
+(    public Guid UserId \173 get\073 private set\073 \175) Tj
+T*
+(    public string TokenHash \173 get\073 private set\073 \175      \057\057 SHA\055256\054 nunca o valor bruto) Tj
+T*
+(    public DateTime ExpiresAtUtc \173 get\073 private set\073 \175) Tj
+T*
+(    public DateTime CreatedAtUtc \173 get\073 private set\073 \175) Tj
+T*
+(    public DateTime\077 RevokedAtUtc \173 get\073 private set\073 \175) Tj
+T*
+(    public string\077 ReplacedByTokenHash \173 get\073 private set\073 \175  \057\057 trilha de rota\347\343o) Tj
+T*
+T*
+(    public bool IsActive \075\076 RevokedAtUtc is null \046\046 DateTime\056UtcNow \074 ExpiresAtUtc\073) Tj
+T*
+T*
+(    public void Revoke\050string\077 replacedByTokenHash \075 null\051) Tj
+T*
+(    \173) Tj
+T*
+(        RevokedAtUtc \075 DateTime\056UtcNow\073) Tj
+T*
+(        ReplacedByTokenHash \075 replacedByTokenHash\073) Tj
+T*
+(    \175) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 469.8661 cm
+q
+BT
+1 0 0 1 0 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+(O banco guarda apenas o ) Tj
+/F2 10 Tf
+(hash) Tj
+/F1 10 Tf
+( do token\056 Se o banco vazar\054 os refresh tokens em si n\343o s\343o) Tj
+T*
+(recuper\341veis\056 A consulta no login\057refresh hasheia o valor recebido e compara com o hash armazenado\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(3\0562\056 Contratos \050Repositories \053 Unit of Work\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 317.8661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 118 Tm
+/F3 8 Tf
+10.5 TL
+(public interface IRefreshTokenRepository) Tj
+T*
+(\173) Tj
+T*
+(    Task\074RefreshToken\077\076 GetByTokenHashAsync\050string tokenHash\054 CancellationToken ct \075 default\051\073) Tj
+T*
+(    Task AddAsync\050RefreshToken refreshToken\054 CancellationToken ct \075 default\051\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(public interface IUnitOfWork) Tj
+T*
+(\173) Tj
+T*
+(    IUserRepository Users \173 get\073 \175) Tj
+T*
+(    IRefreshTokenRepository RefreshTokens \173 get\073 \175) Tj
+T*
+(    Task\074int\076 SaveChangesAsync\050CancellationToken ct \075 default\051\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 4966
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(4\056 Camada de Aplica\347\343o \050Application\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.8661 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 20 Tm
+/F1 10 Tf
+15 TL
+(Orquestra os casos de uso\056 N\343o conhece EF Core nem HTTP \227 depende apenas de abstra\347\365es do) Tj
+T*
+(Domain e de interfaces pr\363prias\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 700.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(4\0561\056 ITokenService) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.8661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 55 Tm
+/F3 8 Tf
+10.5 TL
+(public interface ITokenService) Tj
+T*
+(\173) Tj
+T*
+(    \050string Token\054 DateTime ExpiresAtUtc\051 GenerateAccessToken\050User user\051\073) Tj
+T*
+(    \050string RawToken\054 string TokenHash\054 DateTime ExpiresAtUtc\051 GenerateRefreshToken\050\051\073) Tj
+T*
+(    string HashRefreshToken\050string rawToken\051\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 611.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(4\0562\056 AuthResult \227 separando corpo e cookie) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 575.8661 cm
+q
+BT
+1 0 0 1 0 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+(O servi\347o devolve um ) Tj
+/F2 10 Tf
+(AuthResult) Tj
+/F1 10 Tf
+(\072 o ) Tj
+/F3 10 Tf
+(AuthResponse) Tj
+/F1 10 Tf
+( \050corpo HTTP\054 com o access token\051 e o ) Tj
+/F2 10 Tf
+(refresh) Tj
+T*
+(token bruto) Tj
+/F1 10 Tf
+(\054 que a API grava no cookie\056 O refresh token ) Tj
+/F2 10 Tf
+(nunca) Tj
+/F1 10 Tf
+( aparece no corpo da resposta\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 527.8661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 34 Tm
+/F3 8 Tf
+10.5 TL
+(public record AuthResult\050) Tj
+T*
+(    AuthResponse Response\054        \057\057 vai no corpo \050access token \053 dados do usu\341rio\051) Tj
+T*
+(    string RefreshToken\054          \057\057 vai no cookie HTTP\055only) Tj
+T*
+(    DateTime RefreshTokenExpiresAtUtc\051\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 505.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(4\0563\056 AuthService \227 emiss\343o e rota\347\343o) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.8661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 370 Tm
+/F3 8 Tf
+10.5 TL
+(\057\057 Emite o par de tokens e persiste o hash do refresh \050usado em Register e Login\051) Tj
+T*
+(private async Task\074AuthResult\076 IssueTokensAsync\050User user\054 CancellationToken ct\051) Tj
+T*
+(\173) Tj
+T*
+(    var \050accessToken\054 accessExpires\051 \075 tokenService\056GenerateAccessToken\050user\051\073) Tj
+T*
+(    var \050rawRefresh\054 refreshHash\054 refreshExpires\051 \075 tokenService\056GenerateRefreshToken\050\051\073) Tj
+T*
+(    await unitOfWork\056RefreshTokens\056AddAsync\050) Tj
+T*
+(        new RefreshToken\050user\056Id\054 refreshHash\054 refreshExpires\051\054 ct\051\073) Tj
+T*
+(    await unitOfWork\056SaveChangesAsync\050ct\051\073) Tj
+T*
+(    var response \075 new AuthResponse\050accessToken\054 accessExpires\054 mapper\056Map\074UserDto\076\050user\051\051\073) Tj
+T*
+(    return new AuthResult\050response\054 rawRefresh\054 refreshExpires\051\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(public async Task\074AuthResult\076 RefreshAsync\050string refreshToken\054 CancellationToken ct\051) Tj
+T*
+(\173) Tj
+T*
+(    if \050string\056IsNullOrWhiteSpace\050refreshToken\051\051) Tj
+T*
+(        throw new UnauthorizedException\050\042Refresh token ausente\056\042\051\073) Tj
+T*
+T*
+(    var hash \075 tokenService\056HashRefreshToken\050refreshToken\051\073) Tj
+T*
+(    var stored \075 await unitOfWork\056RefreshTokens\056GetByTokenHashAsync\050hash\054 ct\051\073) Tj
+T*
+(    if \050stored is null \174\174 \041stored\056IsActive\051) Tj
+T*
+(        throw new UnauthorizedException\050\042Refresh token inv\341lido ou expirado\056\042\051\073) Tj
+T*
+T*
+(    var user \075 await unitOfWork\056Users\056GetByIdAsync\050stored\056UserId\054 ct\051) Tj
+T*
+(        \077\077 throw new UnauthorizedException\050\042Usu\341rio n\343o encontrado\056\042\051\073) Tj
+T*
+T*
+(    \057\057 ROTA\307\303O\072 revoga o antigo\054 emite o novo\054 registra o v\355nculo) Tj
+T*
+(    var \050accessToken\054 accessExpires\051 \075 tokenService\056GenerateAccessToken\050user\051\073) Tj
+T*
+(    var \050rawRefresh\054 refreshHash\054 refreshExpires\051 \075 tokenService\056GenerateRefreshToken\050\051\073) Tj
+T*
+(    stored\056Revoke\050replacedByTokenHash\072 refreshHash\051\073) Tj
+T*
+(    await unitOfWork\056RefreshTokens\056AddAsync\050) Tj
+T*
+(        new RefreshToken\050user\056Id\054 refreshHash\054 refreshExpires\051\054 ct\051\073) Tj
+T*
+(    await unitOfWork\056SaveChangesAsync\050ct\051\073) Tj
+T*
+T*
+(    var response \075 new AuthResponse\050accessToken\054 accessExpires\054 mapper\056Map\074UserDto\076\050user\051\051\073) Tj
+T*
+(    return new AuthResult\050response\054 rawRefresh\054 refreshExpires\051\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 3441
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(5\056 Camada de Infraestrutura \050Infraestructure\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 738.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(5\0561\056 TokenService \227 gera\347\343o segura) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 577.3661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 149.5 Tm
+/F3 8 Tf
+10.5 TL
+(public \050string RawToken\054 string TokenHash\054 DateTime ExpiresAtUtc\051 GenerateRefreshToken\050\051) Tj
+T*
+(\173) Tj
+T*
+(    \057\057 256 bits de entropia criptogr\341fica\054 Base64 URL\055safe) Tj
+T*
+(    var bytes \075 RandomNumberGenerator\056GetBytes\05032\051\073) Tj
+T*
+(    var rawToken \075 Convert\056ToBase64String\050bytes\051) Tj
+T*
+(        \056Replace\050\042\053\042\054 \042\055\042\051\056Replace\050\042\057\042\054 \042\137\042\051\056TrimEnd\050\047\075\047\051\073) Tj
+T*
+(    var expiresAt \075 DateTime\056UtcNow\056AddDays\050\137settings\056RefreshTokenExpirationDays\051\073) Tj
+T*
+(    return \050rawToken\054 HashRefreshToken\050rawToken\051\054 expiresAt\051\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(public string HashRefreshToken\050string rawToken\051) Tj
+T*
+(\173) Tj
+T*
+(    var hash \075 SHA256\056HashData\050Encoding\056UTF8\056GetBytes\050rawToken\051\051\073) Tj
+T*
+(    return Convert\056ToHexString\050hash\051\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 524.3661 cm
+q
+BT
+1 0 0 1 0 35 Tm
+15 TL
+/F2 10 Tf
+0 0 0 rg
+(RandomNumberGenerator) Tj
+/F1 10 Tf
+( \050CSPRNG\051 garante que o token seja imprevis\355vel\056 SHA\055256 \351 determin\355stico) Tj
+T*
+(\227 por isso serve para consulta indexada \050diferente do BCrypt usado em senhas\054 que \351 salgado e n\343o) Tj
+T*
+(permite busca\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 502.3661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(5\0562\056 Mapeamento do refresh token \050Fluent API\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 424.8661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 65.5 Tm
+/F3 8 Tf
+10.5 TL
+(builder\056ToTable\050\042refresh\137tokens\042\051\073) Tj
+T*
+(builder\056HasKey\050t \075\076 t\056Id\051\073) Tj
+T*
+(builder\056Property\050t \075\076 t\056TokenHash\051\056IsRequired\050\051\056HasMaxLength\050128\051\073) Tj
+T*
+(builder\056HasIndex\050t \075\076 t\056TokenHash\051\056IsUnique\050\051\073   \057\057 consulta O\050log n\051 \053 unicidade) Tj
+T*
+(builder\056HasIndex\050t \075\076 t\056UserId\051\073) Tj
+T*
+(builder\056HasOne\074User\076\050\051\056WithMany\050\051\056HasForeignKey\050t \075\076 t\056UserId\051) Tj
+T*
+(       \056OnDelete\050DeleteBehavior\056Cascade\051\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 402.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(5\0563\056 Configura\347\343o \050appsettings\056json\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 325.3661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 65.5 Tm
+/F3 8 Tf
+10.5 TL
+(\042Jwt\042\072 \173) Tj
+T*
+(  \042Issuer\042\072 \042AppExampleKafka\056API\042\054) Tj
+T*
+(  \042Audience\042\072 \042AppExampleKafka\056Client\042\054) Tj
+T*
+(  \042SecretKey\042\072 \042\074chave\055forte\055de\05532\053\055bytes\055fora\055do\055repositorio\076\042\054) Tj
+T*
+(  \042ExpirationMinutes\042\072 60\054          \057\057 access token) Tj
+T*
+(  \042RefreshTokenExpirationDays\042\072 7   \057\057 refresh token) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 5351
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(6\056 Camada de API \227 Controller e Cookie) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.8661 cm
+q
+BT
+1 0 0 1 0 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+(O controller \351 a \372nica camada que lida com HTTP\056 \311 aqui que o refresh token \351 gravado\057lido do cookie\073 o) Tj
+T*
+(servi\347o nunca toca em ) Tj
+/F3 10 Tf
+(HttpContext) Tj
+/F1 10 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 700.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(6\0561\056 Configura\347\343o do cookie) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.3661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 149.5 Tm
+/F3 8 Tf
+10.5 TL
+(private CookieOptions BuildCookieOptions\050\051 \075\076 new\050\051) Tj
+T*
+(\173) Tj
+T*
+(    HttpOnly \075 true\054                 \057\057 inacess\355vel a JavaScript \050mitiga XSS\051) Tj
+T*
+(    Secure \075 Request\056IsHttps\054        \057\057 s\363 sob HTTPS \050true em produ\347\343o\051) Tj
+T*
+(    SameSite \075 SameSiteMode\056Strict\054  \057\057 mitiga CSRF) Tj
+T*
+(    IsEssential \075 true\054) Tj
+T*
+(    Path \075 \042\057\042) Tj
+T*
+(\175\073) Tj
+T*
+T*
+(private void SetRefreshCookie\050AuthResult result\051) Tj
+T*
+(\173) Tj
+T*
+(    var options \075 BuildCookieOptions\050\051\073) Tj
+T*
+(    options\056Expires \075 result\056RefreshTokenExpiresAtUtc\073) Tj
+T*
+(    Response\056Cookies\056Append\050\042refreshToken\042\054 result\056RefreshToken\054 options\051\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 517.3661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(6\0562\056 Endpoints) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 334.8661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 170.5 Tm
+/F3 8 Tf
+10.5 TL
+(\133HttpPost\050\042refresh\042\051\135 \133AllowAnonymous\135) Tj
+T*
+(public async Task\074IActionResult\076 Refresh\050CancellationToken ct\051) Tj
+T*
+(\173) Tj
+T*
+(    var refreshToken \075 Request\056Cookies\133\042refreshToken\042\135\073) Tj
+T*
+(    var result \075 await authService\056RefreshAsync\050refreshToken \077\077 \042\042\054 ct\051\073) Tj
+T*
+(    SetRefreshCookie\050result\051\073      \057\057 grava o token rotacionado) Tj
+T*
+(    return Ok\050result\056Response\051\073    \057\057 devolve o novo access token) Tj
+T*
+(\175) Tj
+T*
+T*
+(\133HttpPost\050\042logout\042\051\135 \133Authorize\135) Tj
+T*
+(public async Task\074IActionResult\076 Logout\050CancellationToken ct\051) Tj
+T*
+(\173) Tj
+T*
+(    var refreshToken \075 Request\056Cookies\133\042refreshToken\042\135\073) Tj
+T*
+(    await authService\056LogoutAsync\050refreshToken\054 ct\051\073       \057\057 revoga no banco) Tj
+T*
+(    Response\056Cookies\056Delete\050\042refreshToken\042\054 BuildCookieOptions\050\051\051\073) Tj
+T*
+(    return NoContent\050\051\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 312.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(6\0563\056 Tabela de endpoints) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 76.53543 154.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+n
+0 154 442.2047 -22 re
+f*
+1 1 1 rg
+n
+0 132 442.2047 -22 re
+f*
+0.945098 0.960784 0.976471 rg
+n
+0 110 442.2047 -22 re
+f*
+1 1 1 rg
+n
+0 88 442.2047 -22 re
+f*
+0.945098 0.960784 0.976471 rg
+n
+0 66 442.2047 -22 re
+f*
+1 1 1 rg
+n
+0 44 442.2047 -22 re
+f*
+0.945098 0.960784 0.976471 rg
+n
+0 22 442.2047 -22 re
+f*
+1 1 1 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 140.5 Tm
+(M\351todo \057 Rota) Tj
+T*
+ET
+BT
+1 0 0 1 176.0787 140.5 Tm
+(Auth) Tj
+T*
+ET
+BT
+1 0 0 1 249.7795 140.5 Tm
+(Descri\347\343o) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F3 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 118.5 Tm
+(POST \057api\057auth\057register) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 176.0787 118.5 Tm
+(An\364nimo) Tj
+T*
+ET
+BT
+1 0 0 1 249.7795 118.5 Tm
+(Cria usu\341rio \050role User\051 \053 emite tokens) Tj
+T*
+ET
+BT
+/F3 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 96.5 Tm
+(POST \057api\057auth\057login) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 176.0787 96.5 Tm
+(An\364nimo) Tj
+T*
+ET
+BT
+1 0 0 1 249.7795 96.5 Tm
+(Autentica \053 emite tokens) Tj
+T*
+ET
+BT
+/F3 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 74.5 Tm
+(POST \057api\057auth\057refresh) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 176.0787 74.5 Tm
+(Cookie) Tj
+T*
+ET
+BT
+1 0 0 1 249.7795 74.5 Tm
+(Rotaciona refresh e renova access token) Tj
+T*
+ET
+BT
+/F3 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 52.5 Tm
+(POST \057api\057auth\057logout) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 176.0787 52.5 Tm
+(Bearer) Tj
+T*
+ET
+BT
+1 0 0 1 249.7795 52.5 Tm
+(Revoga refresh e apaga o cookie) Tj
+T*
+ET
+BT
+/F3 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 30.5 Tm
+(GET \057api\057auth\057me) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 176.0787 30.5 Tm
+(Bearer) Tj
+T*
+ET
+BT
+1 0 0 1 249.7795 30.5 Tm
+(Dados do usu\341rio autenticado) Tj
+T*
+ET
+BT
+/F3 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 8.5 Tm
+(GET \057api\057auth\057admin\055only) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 176.0787 8.5 Tm
+(Bearer\053Admin) Tj
+T*
+ET
+BT
+1 0 0 1 249.7795 8.5 Tm
+(Restrito \340 role Admin) Tj
+T*
+ET
+q
+1 J
+1 j
+0.796078 0.835294 0.882353 RG
+0.4 w
+n
+0 154 m
+442.2047 154 l
+S
+n
+0 0 m
+442.2047 0 l
+S
+n
+0 0 m
+0 154 l
+S
+n
+442.2047 0 m
+442.2047 154 l
+S
+n
+0 132 m
+442.2047 132 l
+S
+n
+0 110 m
+442.2047 110 l
+S
+n
+0 88 m
+442.2047 88 l
+S
+n
+0 66 m
+442.2047 66 l
+S
+n
+0 44 m
+442.2047 44 l
+S
+n
+0 22 m
+442.2047 22 l
+S
+n
+170.0787 0 m
+170.0787 154 l
+S
+n
+243.7795 0 m
+243.7795 154 l
+S
+Q
+Q
+Q
+
+endstream
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 3663
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(7\056 Fluxo Completo de Requisi\347\343o) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 738.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(7\0561\056 Login \057 Register) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 629.8661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 97 Tm
+/F3 8 Tf
+10.5 TL
+(Cliente ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+(POST \057login \173email\054senha\175) Tj
+/F4 8 Tf
+10.5 TL
+(nnn) Tj
+/F3 8 Tf
+10.5 TL
+( AuthController) Tj
+T*
+(   AuthController ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( AuthService\056LoginAsync) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( FluentValidation valida a entrada) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( UnitOfWork\056Users\056GetByEmailAsync) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( PasswordHasher\056Verify \050BCrypt\051) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( TokenService\056GenerateAccessToken   ) Tj
+/F5 8 Tf
+10.5 TL
+(\256) Tj
+/F3 8 Tf
+10.5 TL
+( JWT \05060 min\051) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( TokenService\056GenerateRefreshToken  ) Tj
+/F5 8 Tf
+10.5 TL
+(\256) Tj
+/F3 8 Tf
+10.5 TL
+( token bruto \053 hash \0507 dias\051) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( UnitOfWork\072 grava hash \053 SaveChanges) Tj
+T*
+(   AuthController grava cookie HTTP\055only \050refresh\051 e retorna JSON \050access\051) Tj
+T*
+(Cliente ) Tj
+/F4 8 Tf
+10.5 TL
+(nnn) Tj
+/F3 8 Tf
+10.5 TL
+( 200 OK \053 Set\055Cookie\072 refreshToken\075\056\056\056\073 HttpOnly\073 Secure\073 SameSite\075Strict) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 607.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(7\0562\056 Renova\347\343o silenciosa \050quando o access token expira\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 509.3661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 86.5 Tm
+/F3 8 Tf
+10.5 TL
+(Cliente ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+(POST \057refresh \050cookie enviado automaticamente\051) Tj
+/F4 8 Tf
+10.5 TL
+(nnn) Tj
+/F3 8 Tf
+10.5 TL
+( AuthController) Tj
+T*
+(   AuthService\056RefreshAsync) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( hasheia o token do cookie e busca no banco) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( valida IsActive \050n\343o revogado e n\343o expirado\051) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( REVOGA o token atual \050Revoke \053 ReplacedByTokenHash\051) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( emite novo access \053 novo refresh) Tj
+T*
+(       ) Tj
+/F4 8 Tf
+10.5 TL
+(nn) Tj
+/F3 8 Tf
+10.5 TL
+( SaveChanges) Tj
+T*
+(   AuthController grava o NOVO cookie e retorna o NOVO access token) Tj
+T*
+(Cliente ) Tj
+/F4 8 Tf
+10.5 TL
+(nnn) Tj
+/F3 8 Tf
+10.5 TL
+( 200 OK \053 novo Set\055Cookie) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 487.3661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(7\0563\056 Tratamento centralizado de erros) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 436.3661 cm
+q
+BT
+1 0 0 1 0 35 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+(O ) Tj
+/F2 10 Tf
+(ExceptionHandlingMiddleware) Tj
+/F1 10 Tf
+( converte exce\347\365es de dom\355nio em respostas HTTP\072) Tj
+T*
+(BadRequest) Tj
+/F5 10 Tf
+15 TL
+(\256) Tj
+/F1 10 Tf
+15 TL
+(400\054 Unauthorized) Tj
+/F5 10 Tf
+15 TL
+(\256) Tj
+/F1 10 Tf
+15 TL
+(401\054 Conflict) Tj
+/F5 10 Tf
+15 TL
+(\256) Tj
+/F1 10 Tf
+15 TL
+(409\073 qualquer outra exce\347\343o vira 500 \050logada\051\056 O corpo) Tj
+T*
+(segue o formato ProblemDetails\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 6702
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(8\056 Como Executar e Testar) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 738.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(8\0561\056 Pr\351\055requisitos e execu\347\343o) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.8661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 76 Tm
+/F3 8 Tf
+10.5 TL
+(\043 PostgreSQL j\341 rodando \050container\051\054 mapeando 5437 \055\076 5432) Tj
+T*
+(\043 String de conex\343o em appsettings\056json \050User Id\075postgres\051) Tj
+T*
+T*
+(dotnet build) Tj
+T*
+(dotnet run \055\055project AppExampleKafka\056API) Tj
+T*
+(\043 As migrations s\343o aplicadas automaticamente na inicializa\347\343o) Tj
+T*
+(\043   \050Database\056Migrate\050\051 no Program\056cs\051 \227 cria as tabelas) Tj
+T*
+(\043   users e refresh\137tokens\056) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 628.8661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(8\0562\056 Exercitando o fluxo com cURL \050mantendo cookies\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 509.3661 cm
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 36 107.5 Tm
+/F3 8 Tf
+10.5 TL
+(\043 \055c\057\055b guardam e reenviam o cookie HTTP\055only automaticamente) Tj
+T*
+(curl \055c cj\056txt \055X POST localhost\0725080\057api\057auth\057register \134) Tj
+T*
+(  \055H \047Content\055Type\072 application\057json\047 \134) Tj
+T*
+(  \055d \047\173\042name\042\072\042Ana\042\054\042email\042\072\042ana\100x\056com\042\054\042password\042\072\042secret123\042\175\047) Tj
+T*
+T*
+(\043 Renova o access token usando o cookie de refresh) Tj
+T*
+(curl \055b cj\056txt \055c cj\056txt \055X POST localhost\0725080\057api\057auth\057refresh) Tj
+T*
+T*
+(\043 Logout \050revoga o refresh e apaga o cookie\051) Tj
+T*
+(curl \055b cj\056txt \055X POST localhost\0725080\057api\057auth\057logout \134) Tj
+T*
+(  \055H \047Authorization\072 Bearer \074access\137token\076\047) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 487.3661 cm
+q
+0.058824 0.090196 0.164706 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F6 11.5 Tf
+14 TL
+(8\0563\056 Resultado da valida\347\343o ponta a ponta) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 77.95276 307.3661 cm
+q
+0.086275 0.639216 0.290196 rg
+n
+0 176 439.3701 -22 re
+f*
+1 1 1 rg
+n
+0 154 439.3701 -22 re
+f*
+0.945098 0.960784 0.976471 rg
+n
+0 132 439.3701 -22 re
+f*
+1 1 1 rg
+n
+0 110 439.3701 -22 re
+f*
+0.945098 0.960784 0.976471 rg
+n
+0 88 439.3701 -22 re
+f*
+1 1 1 rg
+n
+0 66 439.3701 -22 re
+f*
+0.945098 0.960784 0.976471 rg
+n
+0 44 439.3701 -22 re
+f*
+1 1 1 rg
+n
+0 22 439.3701 -22 re
+f*
+1 1 1 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 162.5 Tm
+(Cen\341rio) Tj
+T*
+ET
+BT
+1 0 0 1 232.7717 162.5 Tm
+(Esperado) Tj
+T*
+ET
+BT
+1 0 0 1 374.5039 162.5 Tm
+(Obtido) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 140.5 Tm
+(Register) Tj
+T*
+ET
+BT
+1 0 0 1 232.7717 140.5 Tm
+(200 \053 Set\055Cookie HttpOnly) Tj
+T*
+ET
+0.086275 0.639216 0.290196 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 374.5039 140.5 Tm
+(OK) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 118.5 Tm
+(Cookie cont\351m HttpOnly \053 SameSite\075Strict) Tj
+T*
+ET
+BT
+1 0 0 1 232.7717 118.5 Tm
+(Sim) Tj
+T*
+ET
+0.086275 0.639216 0.290196 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 374.5039 118.5 Tm
+(OK) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 96.5 Tm
+(Login) Tj
+T*
+ET
+BT
+1 0 0 1 232.7717 96.5 Tm
+(200 \053 cookie) Tj
+T*
+ET
+0.086275 0.639216 0.290196 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 374.5039 96.5 Tm
+(OK) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 74.5 Tm
+(Refresh com cookie) Tj
+T*
+ET
+BT
+1 0 0 1 232.7717 74.5 Tm
+(200 \053 novo cookie \050rota\347\343o\051) Tj
+T*
+ET
+0.086275 0.639216 0.290196 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 374.5039 74.5 Tm
+(OK) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 52.5 Tm
+(Refresh sem cookie) Tj
+T*
+ET
+BT
+1 0 0 1 232.7717 52.5 Tm
+(401) Tj
+T*
+ET
+0.086275 0.639216 0.290196 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 374.5039 52.5 Tm
+(OK) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 30.5 Tm
+(Logout) Tj
+T*
+ET
+BT
+1 0 0 1 232.7717 30.5 Tm
+(204 \053 cookie apagado) Tj
+T*
+ET
+0.086275 0.639216 0.290196 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 374.5039 30.5 Tm
+(OK) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 8.5 Tm
+(Refresh ap\363s logout \050revogado\051) Tj
+T*
+ET
+BT
+1 0 0 1 232.7717 8.5 Tm
+(401) Tj
+T*
+ET
+0.086275 0.639216 0.290196 rg
+BT
+/F2 8.5 Tf
+12 TL
+ET
+BT
+1 0 0 1 374.5039 8.5 Tm
+(OK) Tj
+T*
+ET
+q
+1 J
+1 j
+0.796078 0.835294 0.882353 RG
+0.4 w
+n
+0 176 m
+439.3701 176 l
+S
+n
+0 0 m
+439.3701 0 l
+S
+n
+0 0 m
+0 176 l
+S
+n
+439.3701 0 m
+439.3701 176 l
+S
+n
+0 154 m
+439.3701 154 l
+S
+n
+0 132 m
+439.3701 132 l
+S
+n
+0 110 m
+439.3701 110 l
+S
+n
+0 88 m
+439.3701 88 l
+S
+n
+0 66 m
+439.3701 66 l
+S
+n
+0 44 m
+439.3701 44 l
+S
+n
+0 22 m
+439.3701 22 l
+S
+n
+226.7717 0 m
+226.7717 176 l
+S
+n
+368.5039 0 m
+368.5039 176 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 297.3661 cm
+Q
+q
+1 0 0 1 62.69291 269.3661 cm
+q
+0.101961 0.168627 0.290196 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+(9\056 Notas e Pr\363ximos Passos) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 229.3661 cm
+q
+BT
+1 0 0 1 16 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+/F2 10 Tf
+(AutoMapper 14\0560\0560) Tj
+/F1 10 Tf
+( \351 usado deliberadamente \050v15\053 exige licen\347a comercial\051\056 O aviso NU1903) Tj
+T*
+(refere\055se a recurs\343o profunda e n\343o se aplica ao mapeamento plano User) Tj
+/F5 10 Tf
+15 TL
+(\256) Tj
+/F1 10 Tf
+15 TL
+(UserDto\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 193.3661 cm
+q
+BT
+1 0 0 1 16 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+/F2 10 Tf
+(SecretKey) Tj
+/F1 10 Tf
+( deve ser substitu\355da por um segredo forte\054 fora do reposit\363rio \050vari\341vel de ambiente ou) Tj
+T*
+(secret manager\051 em produ\347\343o\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 172.3661 cm
+q
+BT
+1 0 0 1 16 5 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+(Em produ\347\343o\054 com HTTPS\054 ) Tj
+/F3 10 Tf
+(Secure) Tj
+/F1 10 Tf
+( torna\055se ) Tj
+/F3 10 Tf
+(true) Tj
+/F1 10 Tf
+( automaticamente \050) Tj
+/F3 10 Tf
+(Request\056IsHttps) Tj
+/F1 10 Tf
+(\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 136.3661 cm
+q
+BT
+1 0 0 1 16 20 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+(Registro sempre cria role ) Tj
+/F2 10 Tf
+(User) Tj
+/F1 10 Tf
+(\056 Para um Admin\054 use um seed inicial ou o m\351todo de dom\355nio) Tj
+T*
+/F3 10 Tf
+(User\056ChangeRole) Tj
+/F1 10 Tf
+( em um fluxo administrativo\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 85.36614 cm
+q
+BT
+1 0 0 1 16 35 Tm
+15 TL
+/F1 10 Tf
+0 0 0 rg
+<7f> Tj
+( ) Tj
+( ) Tj
+(Evolu\347\365es poss\355veis\072 limpeza peri\363dica de refresh tokens expirados\073 detec\347\343o de reuso \050revogar) Tj
+T*
+(toda a cadeia ao detectar um token j\341 rotacionado\051\073 endpoint para revogar todas as sess\365es de um) Tj
+T*
+(usu\341rio\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+28 0 obj
+<<
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Author (\050anonymous\051)
+/CreationDate (D\07220260910170230\05503\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260910170230\05503\04700\047)
+/Subject (\050unspecified\051)
+/Title (AppExampleKafka \055 Documenta\347\343o da API de Autentica\347\343o)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000179 00000 n 
+0000000378 00000 n 
+0000002626 00000 n 
+0000002709 00000 n 
+0000002816 00000 n 
+0000002928 00000 n 
+0000003033 00000 n 
+0000003116 00000 n 
+0000003194 00000 n 
+0000003314 00000 n 
+0000003515 00000 n 
+0000007599 00000 n 
+0000007800 00000 n 
+0000011856 00000 n 
+0000012057 00000 n 
+0000015070 00000 n 
+0000015271 00000 n 
+0000020290 00000 n 
+0000020491 00000 n 
+0000023985 00000 n 
+0000024186 00000 n 
+0000029590 00000 n 
+0000029791 00000 n 
+0000033507 00000 n 
+0000033708 00000 n 
+0000040463 00000 n 
+trailer
+<<
+/Size 29
+/Root 1 0 R
+/Info 28 0 R
+>>
+startxref
+40844
+%%EOF

@@ -1,0 +1,27 @@
+# Execute na pasta da solução (a partir da raiz dotNet_Labs):
+cd AppExampleKafka
+
+# Apache Kafka oficial 4.1.1 + PostgreSQL NOVO (não usa AppTest_Pgsql nem volume pgdata).
+# KRaft single-broker; localhost:9092 no host, kafka:29092 nos containers.
+# O compose aguarda healthcheck e cria o tópico banco.transacoes.v1.
+docker compose up -d postgres kafka kafka-init
+docker compose ps -a
+
+# Subir também a API em http://localhost:5080 /swagger (banco novo com migration inicial):
+docker compose --profile app up -d --build
+
+# Ver mensagens:
+docker compose exec kafka /opt/kafka/bin/kafka-console-consumer.sh --bootstrap-server kafka:29092 --topic banco.transacoes.v1 --from-beginning --property print.key=true --property print.headers=true
+
+# Ver tópico:
+docker compose exec kafka /opt/kafka/bin/kafka-topics.sh --bootstrap-server kafka:29092 --describe --topic banco.transacoes.v1
+
+# API no host: configure Kafka__BootstrapServers=localhost:9092
+# API na rede do compose: Kafka__BootstrapServers=kafka:29092 (já configurado).
+# Parar mantendo volumes:
+docker compose --profile app down
+
+# NÃO execute migration BankingInitial na base antiga da porta 5437.
+# PostgreSQL novo: porta 15437 / banco apptest_bancario. Leia AppExampleKafka/README.md.
+# Senhas/chaves do compose são somente dev; use .env local e segredos externos em produção.
+# Entrega outbox é at-least-once; consumidores deduplicam por EventId.

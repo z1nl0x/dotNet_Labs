@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AppExampleKafka.API/AppExampleKafka.API.csproj" />
+  <Project Path="AppExampleKafka.Application/AppExampleKafka.Application.csproj" />
+  <Project Path="AppExampleKafka.Domain/AppExampleKafka.Domain.csproj" />
+  <Project Path="AppExampleKafka.Infraestructure/AppExampleKafka.Infraestructure.csproj" />
+  <Project Path="AppExampleKafka.Tests/AppExampleKafka.Tests.csproj" />
+</Solution>

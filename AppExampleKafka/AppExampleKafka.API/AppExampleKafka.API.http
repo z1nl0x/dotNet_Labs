@@ -1,0 +1,172 @@
+# Execute uma requisição por vez; copie os valores reais das respostas.
+# Dados fictícios de teste. Cadastros repetidos retornam 409: use login depois.
+@host = http://localhost:5080
+@token = cole-o-accessToken-sem-o-prefixo-Bearer
+@contaOrigemId = 00000000-0000-0000-0000-000000000001
+@contaDestinoId = 00000000-0000-0000-0000-000000000002
+@transacaoId = 00000000-0000-0000-0000-000000000003
+@chaveIdempotencia = pedido-2026-001
+
+### Registro PF — 200; copie accessToken para @token
+POST {{host}}/api/auth/register
+Content-Type: application/json
+
+{
+  "nome": "Ana Teste",
+  "email": "ana@example.com",
+  "password": "SenhaForte123!",
+  "cadastro": {
+    "tipoPessoa": "PF",
+    "documento": "52998224725",
+    "telefone": "11987654321",
+    "endereco": {
+      "logradouro": "Rua de Teste", "numero": "10", "complemento": "Apto 1",
+      "bairro": "Centro", "cidade": "São Paulo", "uf": "SP", "cep": "01001000"
+    },
+    "pessoaFisica": {
+      "dataNascimento": "1990-01-01", "nacionalidade": "Brasileira",
+      "estadoCivil": "Solteira", "profissao": "Engenheira", "rendaMensal": 5000.00
+    }
+  }
+}
+
+### Registro PJ — 200; muda o cookie da sessão para o usuário PJ
+POST {{host}}/api/auth/register
+Content-Type: application/json
+
+{
+  "nome": "Empresa de Teste",
+  "email": "empresa@example.com",
+  "password": "SenhaForte123!",
+  "cadastro": {
+    "tipoPessoa": "PJ",
+    "documento": "11222333000181",
+    "telefone": "1133334444",
+    "endereco": {
+      "logradouro": "Rua da Empresa", "numero": "20", "bairro": "Centro",
+      "cidade": "São Paulo", "uf": "SP", "cep": "01001000"
+    },
+    "pessoaJuridica": {
+      "razaoSocial": "Empresa de Teste Ltda", "nomeFantasia": "Empresa Teste",
+      "dataConstituicao": "2020-01-01", "naturezaJuridica": "Sociedade limitada",
+      "cnae": "6201501", "faturamentoMensal": 10000.00,
+      "representanteLegal": {
+        "nome": "Ana Teste", "cpf": "52998224725", "dataNascimento": "1990-01-01"
+      }
+    }
+  }
+}
+
+### Login PJ — opcional; copie accessToken para @token para operar como PJ
+POST {{host}}/api/auth/login
+Content-Type: application/json
+
+{ "email": "empresa@example.com", "password": "SenhaForte123!" }
+
+### Login PF — 200; use este login para seguir o roteiro com duas contas PF
+POST {{host}}/api/auth/login
+Content-Type: application/json
+
+{ "email": "ana@example.com", "password": "SenhaForte123!" }
+
+### Refresh — 200 com cookie válido; sem cookie/expirado/revogado: 401
+# Persistir/enviar cookies automaticamente depende do cliente e da configuração.
+# Habilite o cookie jar; não envie o refresh token no JSON nem como Bearer.
+# A resposta rotaciona o cookie: copie o novo accessToken para @token.
+POST {{host}}/api/auth/refresh
+
+### Perfil e cadastro completo do titular do JWT — 200
+GET {{host}}/api/auth/me
+Authorization: Bearer {{token}}
+
+### Admin — 403 para PF/PJ registrados publicamente; 200 somente com JWT Admin
+# Registro público sempre cria User; não há promoção por este roteiro.
+GET {{host}}/api/auth/admin-only
+Authorization: Bearer {{token}}
+
+### Criar origem — 201; copie id para @contaOrigemId
+# Sem corpo: titular vem do JWT; saldo ZERO, BRL, ativa e Corrente.
+POST {{host}}/api/contas
+Authorization: Bearer {{token}}
+
+### Criar destino — 201; copie outro id para @contaDestinoId
+# Mantendo o mesmo token, ambas as contas pertencem ao mesmo titular.
+POST {{host}}/api/contas
+Authorization: Bearer {{token}}
+
+### Consultar conta do titular — 200 após atualizar @contaOrigemId
+GET {{host}}/api/contas/{{contaOrigemId}}
+Authorization: Bearer {{token}}
+
+### Listar contas do titular — 200; pageSize de 1 a 100
+GET {{host}}/api/contas?pageNumber=1&pageSize=20
+Authorization: Bearer {{token}}
+
+### Transferir — 409 saldo insuficiente em contas novas; 201 só com saldo legítimo
+# Não existe endpoint de aporte, seed de saldo público ou crédito arbitrário.
+# Após 201, copie id para @transacaoId; replay idêntico também retorna 201.
+# Em timeout/conflito concorrente, repita a mesma chave e o mesmo conteúdo.
+POST {{host}}/api/transacoes
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "contaOrigemId": "{{contaOrigemId}}",
+  "contaDestinoId": "{{contaDestinoId}}",
+  "valor": 25.50,
+  "chaveIdempotencia": "{{chaveIdempotencia}}"
+}
+
+### Consultar transação — 200 apenas com id real e titular envolvido; senão 404
+# Contas novas com saldo zero não geram transação nem id para esta consulta.
+GET {{host}}/api/transacoes/{{transacaoId}}
+Authorization: Bearer {{token}}
+
+### Listar histórico do titular — 200; items vazio se não houve transferências
+GET {{host}}/api/transacoes?pageNumber=1&pageSize=20
+Authorization: Bearer {{token}}
+
+### Erro 400 — valor zero, mesmo com contas existentes e distintas
+POST {{host}}/api/transacoes
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "contaOrigemId": "{{contaOrigemId}}",
+  "contaDestinoId": "{{contaDestinoId}}",
+  "valor": 0,
+  "chaveIdempotencia": "erro-valor-zero"
+}
+
+### Erro 400 — paginação inválida (máximo 100 por página)
+GET {{host}}/api/contas?pageNumber=1&pageSize=101
+Authorization: Bearer {{token}}
+
+### Erro 400 — cadastro bancário obrigatório ausente
+POST {{host}}/api/auth/register
+Content-Type: application/json
+
+{
+  "nome": "Cadastro Incompleto",
+  "email": "incompleto@example.com",
+  "password": "SenhaForte123!"
+}
+
+### Erro 409 de idempotência — SOMENTE após a transferência original retornar 201
+# Mesma chave já persistida e mesmo par de contas, mas valor diferente.
+# Sem transferência anterior, este exemplo NÃO comprova conflito de chave.
+POST {{host}}/api/transacoes
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "contaOrigemId": "{{contaOrigemId}}",
+  "contaDestinoId": "{{contaDestinoId}}",
+  "valor": 26.50,
+  "chaveIdempotencia": "{{chaveIdempotencia}}"
+}
+
+### Logout — execute por último; 204 com JWT válido e cookie da mesma sessão
+# Revoga o refresh do cookie e solicita sua exclusão; não invalida o JWT já emitido.
+POST {{host}}/api/auth/logout
+Authorization: Bearer {{token}}
